@@ -165,3 +165,5 @@ openai/
 CURRENT_BULLETIN.md
 !/plugins/AXIOM-Plugin/axiom_plugin.py
 
+!/plugins/AXIOM-Plugin/*
+
